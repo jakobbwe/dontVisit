@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://DEIN-LINK-HIER.de](https://jakobbwe.github.io/dontVisit/" target="_blank">
+  <a href="https://jakobbwe.github.io/dontVisit/" target="_blank">
     <img src="https://img.shields.io/badge/🔗 Zur%20Website-%23FF5555?style=for-the-badge&logo=firefox&logoColor=white" alt="Zur Website">
   </a>
 </p>
