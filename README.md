@@ -6,7 +6,9 @@
 
 # dontVisit
 
-Dieses Projekt demonstriert, wie eine einfache HTML-Datei ihren Browser zum Abstürzen bringen kann.
+Dieses Projekt demonstriert, wie eine einfache HTML-Datei ihren Browser zum Abstürzen bringen kann. 
+
+**Hinweis: Diese Anwendung ist ausschließlich für den Einsatz auf Desktop-Computern optimiert.**
 
 ---
 
